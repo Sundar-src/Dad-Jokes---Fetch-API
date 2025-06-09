@@ -9,3 +9,7 @@ This project is a simple and entertaining web application that delivers random d
 
 ## Demo
 You can see the live demo here: https://dad-jokes-fetch-api.vercel.app/
+
+## 📷 Preview:
+![Card Slider Preview](./screenshot.png)
+
